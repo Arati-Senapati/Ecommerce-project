@@ -3,8 +3,8 @@ A modern **responsive ecommerce website** for showcasing traditional **Sambalpur
 This project is built using **HTML and CSS** and demonstrates a clean ecommerce layout with product cards, hero section, reviews, news updates, and contact information.
 
 ## 🌐 Live Demo
-
-
+   https://arati-senapati.github.io/Ecommerce-project/
+   
 # 📌 Features
 ✔ Responsive Navigation Bar
 ✔ Hero Section with Call-to-Action
@@ -75,7 +75,7 @@ The website is fully responsive using **CSS media queries** for:
  
 # 🚀 How to Run the Project
 1. Download or clone the repository
-
+     https://github.com/Arati-Senapati/Ecommerce-project.git
 3. Open the project folder
 4. Open **index.html** in your browser
 
